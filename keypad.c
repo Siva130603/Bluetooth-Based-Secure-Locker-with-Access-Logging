@@ -21,10 +21,10 @@
 /* Standard 4x4 keypad character layout, row-major order. */
 static const u8 key_map[4][4] =
 {
-    {'1','2','3','4'},
-    {'5','6','7','8'},
-    {'9','0','*','#'},
-    {'A','B','C','D'}
+    {'1','2','3','A'},
+    {'4','5','6','B'},
+    {'7','8','9','C'},
+    {'*','0','#','D'}
 };
 
 /* Configure the row pins as outputs (idle HIGH) and the column pins as
