@@ -24,7 +24,7 @@ This project is a two-factor embedded access-control system built on the **NXP L
 ---
 ## Block Diagram
 
-
+https://github.com/Siva130603/Bluetooth-Based-Secure-Locker-with-Access-Logging/blob/main/circuit_block_diagram.png
 
 
 ## ✨ Highlights
