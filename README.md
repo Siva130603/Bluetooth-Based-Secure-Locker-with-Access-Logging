@@ -22,6 +22,10 @@
 This project is a two-factor embedded access-control system built on the **NXP LPC2148 (ARM7TDMI-S)**. A user first sends a 4-digit password from a phone over **Bluetooth** (Level-1); if correct, they're prompted to enter a second 4-digit password on a **physical keypad** (Level-2). Only when both match does the system drive a **DC motor** to open — and then automatically close — the locker. Every significant event is timestamped via the on-chip RTC and streamed out over UART0 as an audit log.
 
 ---
+## Block Diagram
+
+    ![Uploading image.png…]()
+
 
 ## ✨ Highlights
 
