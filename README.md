@@ -24,7 +24,7 @@ This project is a two-factor embedded access-control system built on the **NXP L
 ---
 ## Block Diagram
 
-    ![Uploading image.png…]()
+
 
 
 ## ✨ Highlights
